@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\SumOfElementInArrays\SumOfElementInArrays\obj\Debug\netcoreapp2.2\SumOfElementInArrays.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\SumOfElementInArrays\SumOfElementInArrays\obj\Debug\netcoreapp2.2\SumOfElementInArrays.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\SumOfElementInArrays\SumOfElementInArrays\obj\Debug\netcoreapp2.2\SumOfElementInArrays.AssemblyInfo.cs
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\SumOfElementInArrays\SumOfElementInArrays\bin\Debug\netcoreapp2.2\SumOfElementInArrays.deps.json
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\SumOfElementInArrays\SumOfElementInArrays\bin\Debug\netcoreapp2.2\SumOfElementInArrays.runtimeconfig.json
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\SumOfElementInArrays\SumOfElementInArrays\bin\Debug\netcoreapp2.2\SumOfElementInArrays.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\SumOfElementInArrays\SumOfElementInArrays\bin\Debug\netcoreapp2.2\SumOfElementInArrays.dll
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\SumOfElementInArrays\SumOfElementInArrays\bin\Debug\netcoreapp2.2\SumOfElementInArrays.pdb
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\SumOfElementInArrays\SumOfElementInArrays\obj\Debug\netcoreapp2.2\SumOfElementInArrays.dll
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\SumOfElementInArrays\SumOfElementInArrays\obj\Debug\netcoreapp2.2\SumOfElementInArrays.pdb
