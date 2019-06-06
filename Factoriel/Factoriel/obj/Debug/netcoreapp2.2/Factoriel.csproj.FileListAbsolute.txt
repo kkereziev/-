@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Factoriel\Factoriel\bin\Debug\netcoreapp2.2\Factoriel.deps.json
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Factoriel\Factoriel\bin\Debug\netcoreapp2.2\Factoriel.runtimeconfig.json
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Factoriel\Factoriel\bin\Debug\netcoreapp2.2\Factoriel.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Factoriel\Factoriel\bin\Debug\netcoreapp2.2\Factoriel.dll
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Factoriel\Factoriel\bin\Debug\netcoreapp2.2\Factoriel.pdb
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Factoriel\Factoriel\obj\Debug\netcoreapp2.2\Factoriel.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Factoriel\Factoriel\obj\Debug\netcoreapp2.2\Factoriel.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Factoriel\Factoriel\obj\Debug\netcoreapp2.2\Factoriel.AssemblyInfo.cs
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Factoriel\Factoriel\obj\Debug\netcoreapp2.2\Factoriel.dll
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Factoriel\Factoriel\obj\Debug\netcoreapp2.2\Factoriel.pdb
