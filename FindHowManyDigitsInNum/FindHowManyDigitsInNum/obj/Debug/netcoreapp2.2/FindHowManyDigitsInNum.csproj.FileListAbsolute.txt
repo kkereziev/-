@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\FindHowManyDigitsInNum\FindHowManyDigitsInNum\bin\Debug\netcoreapp2.2\FindHowManyDigitsInNum.deps.json
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\FindHowManyDigitsInNum\FindHowManyDigitsInNum\bin\Debug\netcoreapp2.2\FindHowManyDigitsInNum.runtimeconfig.json
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\FindHowManyDigitsInNum\FindHowManyDigitsInNum\bin\Debug\netcoreapp2.2\FindHowManyDigitsInNum.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\FindHowManyDigitsInNum\FindHowManyDigitsInNum\bin\Debug\netcoreapp2.2\FindHowManyDigitsInNum.dll
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\FindHowManyDigitsInNum\FindHowManyDigitsInNum\bin\Debug\netcoreapp2.2\FindHowManyDigitsInNum.pdb
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\FindHowManyDigitsInNum\FindHowManyDigitsInNum\obj\Debug\netcoreapp2.2\FindHowManyDigitsInNum.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\FindHowManyDigitsInNum\FindHowManyDigitsInNum\obj\Debug\netcoreapp2.2\FindHowManyDigitsInNum.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\FindHowManyDigitsInNum\FindHowManyDigitsInNum\obj\Debug\netcoreapp2.2\FindHowManyDigitsInNum.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\FindHowManyDigitsInNum\FindHowManyDigitsInNum\obj\Debug\netcoreapp2.2\FindHowManyDigitsInNum.AssemblyInfo.cs
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\FindHowManyDigitsInNum\FindHowManyDigitsInNum\obj\Debug\netcoreapp2.2\FindHowManyDigitsInNum.dll
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\FindHowManyDigitsInNum\FindHowManyDigitsInNum\obj\Debug\netcoreapp2.2\FindHowManyDigitsInNum.pdb
