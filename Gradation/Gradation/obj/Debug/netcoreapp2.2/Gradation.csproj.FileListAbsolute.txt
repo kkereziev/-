@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Gradation\Gradation\obj\Debug\netcoreapp2.2\Gradation.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Gradation\Gradation\obj\Debug\netcoreapp2.2\Gradation.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Gradation\Gradation\obj\Debug\netcoreapp2.2\Gradation.AssemblyInfo.cs
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Gradation\Gradation\bin\Debug\netcoreapp2.2\Gradation.deps.json
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Gradation\Gradation\bin\Debug\netcoreapp2.2\Gradation.runtimeconfig.json
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Gradation\Gradation\bin\Debug\netcoreapp2.2\Gradation.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Gradation\Gradation\bin\Debug\netcoreapp2.2\Gradation.dll
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Gradation\Gradation\bin\Debug\netcoreapp2.2\Gradation.pdb
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Gradation\Gradation\obj\Debug\netcoreapp2.2\Gradation.dll
+C:\Users\admin\Desktop\Алгоритми=++Програмиране\Gradation\Gradation\obj\Debug\netcoreapp2.2\Gradation.pdb
