@@ -1,0 +1,5 @@
+E:\C#Programs\SpiralMatrix\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+E:\C#Programs\SpiralMatrix\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+E:\C#Programs\SpiralMatrix\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+E:\C#Programs\SpiralMatrix\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+E:\C#Programs\SpiralMatrix\SpiralMatrix\obj\Debug\SpiralMatrix.pdb
